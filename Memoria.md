@@ -306,7 +306,7 @@ Incluso con eso, el arranque normal puede ser demasiado rápido. Pasamos a lanza
 
 ![Captura 80](https://raw.githubusercontent.com/alejandroquinonesgamez/Uncrackables/main/Capturas/80%20-%20Debugger.png)
 
-![Captura 82](https://raw.githubusercontent.com/alejandroquinonesgamez/Uncrackables/main/Capturas/82%20-%20???.png)
+![Captura 82](https://raw.githubusercontent.com/alejandroquinonesgamez/Uncrackables/main/Capturas/82%20-%20%3F%3F%3F.png)
 
 Automatizamos la secuencia en [Scripts/pre_frida.sh](https://github.com/alejandroquinonesgamez/Uncrackables/blob/main/Scripts/pre_frida.sh), visible en la captura 84: arranque en `-D`, `pidof`, reenvío del puerto 12345, recordatorio de abrir jdb en otra pestaña, y Frida adjunto por PID con un hook en `strncmp` que, cuando el tamaño es veinticuatro, vuelca los dos operandos de la comparación.
 
@@ -332,7 +332,7 @@ En paralelo seguimos limpiando el decompilador de `CodeCheck_bar`. Renombramos v
 
 ![Captura 96b](https://raw.githubusercontent.com/alejandroquinonesgamez/Uncrackables/main/Capturas/96%20-%20Looking%20for%20address.png)
 
-![Captura 97](https://raw.githubusercontent.com/alejandroquinonesgamez/Uncrackables/main/Capturas/97%20-%20Looking%20for%20address%20(Nice).png)
+![Captura 97](https://raw.githubusercontent.com/alejandroquinonesgamez/Uncrackables/main/Capturas/97%20-%20Looking%20for%20address%20%28Nice%29.png)
 
 ![Captura 98](https://raw.githubusercontent.com/alejandroquinonesgamez/Uncrackables/main/Capturas/98%20-%20Getting%20the%20address.png)
 
