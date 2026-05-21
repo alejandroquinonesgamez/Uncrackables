@@ -1,0 +1,13 @@
+# Ghidra
+*.rep/
+*.gpr
+*.lock
+*.lock~
+
+# Extraídos / temporales locales
+Crackable-Level2/
+Crackable-Level3/
+
+# Sistema
+.DS_Store
+Thumbs.db
