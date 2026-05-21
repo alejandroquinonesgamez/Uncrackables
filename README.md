@@ -19,3 +19,21 @@ Resolución de los crackmes **OWASP Uncrackable** (Android), niveles 1, 2 y 3.
 ## Repositorio
 
 https://github.com/alejandroquinonesgamez/Uncrackables
+
+### Publicar en GitHub
+
+El repositorio Git local ya está inicializado. Para subirlo:
+
+1. Crear en GitHub un repositorio vacío llamado **Uncrackables** (sin README ni `.gitignore`).
+2. Desde esta carpeta:
+
+```bash
+git push -u origin main
+```
+
+Si el remoto aún no existe:
+
+```bash
+git remote add origin https://github.com/alejandroquinonesgamez/Uncrackables.git
+git push -u origin main
+```
