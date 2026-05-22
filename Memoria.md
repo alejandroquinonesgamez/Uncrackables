@@ -1,8 +1,9 @@
 # Memoria de resolución — OWASP Uncrackable (Android)
 
-**Autor:** Alejandro Quiñones Gámez     
+**Autor:** Alejandro Quiñones Gámez  
 **Asignatura:** PPS — Puesta a Producción Segura  
 **Práctica:** Android Inverse — MAS Crackmes  
+**Repositorio:** [github.com/alejandroquinonesgamez/Uncrackables](https://github.com/alejandroquinonesgamez/Uncrackables)  
 **Enunciado:** [crackme.html](crackme.html)
 
 ---
@@ -345,6 +346,7 @@ La efectividad de las defensas analizadas no reside en la imposibilidad de su ru
 
 ## 6. Referencias
 
+- [Repositorio del proyecto](https://github.com/alejandroquinonesgamez/Uncrackables) — memoria, capturas, scripts y APKs
 - [Enunciado de la práctica](crackme.html)
 - [OWASP MAS Crackmes — Android](https://mas.owasp.org/crackmes/Android/)
 - APKs del repositorio oficial de OWASP: [Level 1](https://github.com/OWASP/mastg/raw/master/Crackmes/Android/Level_01/UnCrackable-Level1.apk), [Level 2](https://github.com/OWASP/mastg/raw/master/Crackmes/Android/Level_02/UnCrackable-Level2.apk), [Level 3](https://github.com/OWASP/mastg/raw/master/Crackmes/Android/Level_03/UnCrackable-Level3.apk)
